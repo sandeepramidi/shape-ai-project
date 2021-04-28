@@ -3,6 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+   <meta charset="utf-8">
    <title>shape ai project</title>
    <style>
    h1{
