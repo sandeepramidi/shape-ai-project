@@ -29,8 +29,9 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 <br><br>Here's the link for you to watch the sessions as well<br>
 <a href="https://youtube.com/playlist?list=PL7zl8TDRnbun7K0fECtSMCI2hOCgLBy9a"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/WebD%20poster.png" id="s"> </a></p>
 <h2><br>I got to have hands on experience on:</h2>
- <ol>  
-<li>CSS
+ <ol>
+<li>HTML</li>   
+<li>CSS</li>
  </ol> 
 <p><br>during these 7 days, and everything was explained from the very basics so that
 anyone with zero experience on programming can learn.
