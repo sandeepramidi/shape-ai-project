@@ -1,8 +1,8 @@
 # shape-ai-project
 # SHAPEAI WEB DEV BOOTCAMP
-<doctypehtml>
+<!DOCTYPE html>
 <html>
- <head>
+<head>
    <title>shape ai project</title>
    <style>
    h1{
@@ -20,7 +20,7 @@
      height:100px;
      }
    </style>
- </head> 
+</head> 
  <body>
 <h1>Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI</h1>
 </b>.
