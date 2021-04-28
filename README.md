@@ -1,4 +1,3 @@
-# shape-ai-project
 # SHAPEAI WEB DEV BOOTCAMP
 <!DOCTYPE html>
 <html>
