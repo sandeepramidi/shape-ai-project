@@ -1,4 +1,3 @@
-# SHAPEAI WEB DEV BOOTCAMP
 <!DOCTYPE html>
 <html>
 <head>
